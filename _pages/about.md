@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. University of Macau. IAPME.
+subtitle: <a href='#'>Affiliations</a>. IAPME, University of Macau.
 
 profile:
   align: right
