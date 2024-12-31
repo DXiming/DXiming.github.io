@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I succefully defened my PhD thesis! :tada: :smile: :sparkles: :heart: 
+I succefully defened my PhD thesis! :tada: :smile: :sparkles: 

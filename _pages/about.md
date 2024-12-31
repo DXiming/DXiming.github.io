@@ -21,6 +21,4 @@ Hi, I'm Qiye (Courtesy name: Ximing), a computational physicist with a passion f
 
 During my graduate studies, I've focused on using Density Functional Theory (DFT) and enhanced sampling methods to study the diffusion behavior of atoms. Recently, I've become increasingly interested in exploring the potential of generative models for materials discovery. 
 
-As a postdoctoral researcher within Prof. Cai's group, I'm currently working on advancing the state-of-the-art in generative models for materials. My research aims to develop new methods for generating realistic and accurate material representations using techniques such as Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), and other machine learning architectures.
-
 I'm excited about the possibilities that AI4S holds, and I'm committed to pushing the boundaries of what's possible through the intersection of physics, chemistry, and artificial intelligence. When I'm not working on research projects or attending conferences, you can find me collaborating with colleagues from diverse backgrounds or exploring new applications in materials science.
