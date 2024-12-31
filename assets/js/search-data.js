@@ -375,8 +375,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-i-succefully-defened-my-phd-thesis-tada-smile-sparkles-heart",
-          title: 'I succefully defened my PhD thesis! :tada: :smile: :sparkles: :heart:',
+    },{id: "news-i-succefully-defened-my-phd-thesis-tada-smile-sparkles",
+          title: 'I succefully defened my PhD thesis! :tada: :smile: :sparkles:',
           description: "",
           section: "News",},{id: "news-now-i-continue-my-research-as-a-postdoc-in-the-group-of-prof-cai-at-um",
           title: 'Now I continue my research as a Postdoc in the group of Prof....',
