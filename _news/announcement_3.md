@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My recent work on path entorpy analysis of SSE was avaliable on arXiv! :sparkles: :smile:
+A preprint of my recent work related to SSE is now available on arXiv! :sparkles: :smile:

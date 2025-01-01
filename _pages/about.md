@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Qiye (Courtesy name: Ximing), a computational physicist with a passion for developing and applying machine learning techniques to accelerate materials science research. With a PhD in Applied Physics from the University of Macau, I've been fortunate to work under the guidance of [Prof. Cai](https://iapme.um.edu.mo/staff/academic-staff/cai-yongqing/).
+Hi, I'm ***Qiye*** (courtesy name: ***Ximing***), a computational physicist with a passion for developing and applying machine learning techniques to accelerate materials science research. With a PhD in Applied Physics from the University of Macau, I've been fortunate to work under the guidance of [Prof. Cai](https://iapme.um.edu.mo/staff/academic-staff/cai-yongqing/).
 
 During my graduate studies, I've focused on using Density Functional Theory (DFT) and enhanced sampling methods to study the diffusion behavior of atoms. Recently, I've become increasingly interested in exploring the potential of generative models for materials discovery. 
 
