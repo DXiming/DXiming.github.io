@@ -375,14 +375,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-i-succefully-defened-my-phd-thesis-tada-smile-sparkles",
-          title: 'I succefully defened my PhD thesis! :tada: :smile: :sparkles:',
-          description: "",
-          section: "News",},{id: "news-now-i-continue-my-research-as-a-postdoc-in-the-group-of-prof-cai-at-um",
-          title: 'Now I continue my research as a Postdoc in the group of Prof....',
-          description: "",
-          section: "News",},{id: "news-a-preprint-of-my-recent-work-related-to-sse-is-now-available-on-arxiv-sparkles-smile",
-          title: 'A preprint of my recent work related to SSE is now available on...',
+    },{id: "news-an-updated-version-of-my-work-related-to-sse-is-now-available-on-arxiv-sparkles",
+          title: 'An updated version of my work related to SSE is now available on...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -434,7 +428,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%63%30%37%38%31%39@%75%6D%61%63.%6D%6F", "_blank");
+          window.open("mailto:%71%69%79%65.%67%75%61%6E@%63%6F%6E%6E%65%63%74.%75%6D.%65%64%75.%6D%6F", "_blank");
         },
       },{
         id: 'social-github',
